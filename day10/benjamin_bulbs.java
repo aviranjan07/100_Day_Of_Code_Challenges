@@ -1,4 +1,10 @@
-// Q . The Curious Case Of Benjamin Bulbs 
+/* Q . The Curious Case Of Benjamin Bulbs 
+simple input-
+6
+simple output-
+1
+4
+*/
 
 import java.util.*;
   

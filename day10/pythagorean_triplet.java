@@ -1,4 +1,9 @@
-// Q. prithagorean triplet 
+/* Q. prithagorean triplet 
+simple input-
+3 2 12
+simple output-
+true 
+*/
 import java.util.*;
   
   public class pythagorean_triplet{
@@ -25,3 +30,4 @@ import java.util.*;
           }
   	  }
   }
+//   today- 1.The Curious Case Of Benjamin Bulbs 2.prithagorean triplet
