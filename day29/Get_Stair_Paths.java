@@ -48,3 +48,5 @@ public class Get_Stair_Paths {
     }
 
 }
+
+// today- 1.get maze path with jumps 2.get maze paths 3.get stair paths 
