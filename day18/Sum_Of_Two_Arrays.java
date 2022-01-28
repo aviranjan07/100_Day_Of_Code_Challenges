@@ -76,3 +76,4 @@ public class Sum_Of_Two_Arrays {
       }
   }
 
+// today - 1. bar chart  2.difference of arrays 3.reverse an array 4.rotate an array 5.sum of two arary 
