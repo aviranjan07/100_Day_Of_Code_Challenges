@@ -43,3 +43,5 @@ public class Max_Of_An_Array {
     }
 
 }
+
+// today- 1.all allIndices in array 2.display arry in reverse 3. DIsplay array 4.first Index 5.last index 6.max of an array 

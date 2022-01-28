@@ -1,4 +1,4 @@
-/* Q. firstIndex
+/* Q. first Index
 input--
 6 (number)
 15
