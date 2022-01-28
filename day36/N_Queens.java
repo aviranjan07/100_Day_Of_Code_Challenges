@@ -51,3 +51,5 @@ public class N_Queens {
         }  
 
     }
+    
+// today- 1.N Queens    
