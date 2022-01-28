@@ -30,3 +30,5 @@ public class Decimal_To_Any_Base {
      return dn;
   }
 }
+
+// today - 1.any base to any base 2.any base to decimal 3.desimal to any base 
