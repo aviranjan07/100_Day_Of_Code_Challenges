@@ -32,3 +32,4 @@ import java.util.*;
         System.out.println(ans);
     }
    }
+   // 1.Inverce of a number 2.reverce a number 3.Rotate a number

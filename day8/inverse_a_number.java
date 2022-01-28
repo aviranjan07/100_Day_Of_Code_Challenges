@@ -23,6 +23,6 @@ public class inverse_a_number {
         inv = inv + p * (int)Math.pow(10, r - 1);
         p++;
     }
-       System.out.println(inv)
+       System.out.println(inv);
   }
 }
