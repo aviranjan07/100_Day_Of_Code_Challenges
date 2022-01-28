@@ -33,3 +33,5 @@ public class String_With_Difference_Of_Every_Two_Consecutive_Characters {
 	}
 
 }
+
+// today- 1.ntroduction_To_Arraylists_Usage_And_Demo 2.Print All Permutations Of A String Iteratively 3.Remove Primes 4.String With Difference Of Every Two Consecutive Characters 
