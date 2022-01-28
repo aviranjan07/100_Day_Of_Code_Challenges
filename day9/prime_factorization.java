@@ -20,7 +20,7 @@ public class prime_factorization {
 	}
 }
 
-
+// today - 1.Gcd And Lcm 2.Prime Factorization Of A Number
 
                         
 

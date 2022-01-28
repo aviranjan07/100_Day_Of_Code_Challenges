@@ -1,7 +1,7 @@
 // Q  Gcd And Lcm 
 // input - 36 & 24
 // output - 12 & 72 
-
+import java.io.*;
 import java.util.*;
 
 public class Gcd_and_Lcm {
