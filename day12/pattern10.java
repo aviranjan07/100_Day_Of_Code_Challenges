@@ -43,4 +43,4 @@ public class pattern10 {
   }
 }
 }
-    // @aviranjan07
+    // today- pattern 6 to pattern 10
