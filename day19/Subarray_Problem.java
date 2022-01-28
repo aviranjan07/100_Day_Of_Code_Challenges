@@ -48,3 +48,5 @@ public static void main(String[] args) throws Exception {
  }
 
 }
+
+// today- 1.binary scarch  2.broken economy 3.first index and last index  4.inverse of array 5.subarray problems  
