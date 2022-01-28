@@ -1,5 +1,5 @@
 
-//  Q. interning 
+//  Q. String interning 
 
 import java.util.*;
 

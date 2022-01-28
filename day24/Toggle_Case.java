@@ -34,3 +34,5 @@ public class Toggle_Case {
   }
 
 }
+
+// today- 1.introduction_to_arraylist 2.print all palindrome substring 3.string compression 4.String interning 5.Stringbuilder_Usage_And_Performance 6.toggle case 
