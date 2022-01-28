@@ -38,3 +38,5 @@ public class twoD_Arrays_Demo {
   }
 
 }
+
+// today - 1.matrix multiplication 2.2d array demo 
