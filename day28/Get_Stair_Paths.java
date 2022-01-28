@@ -1,3 +1,9 @@
+/* Q. get stair paths 
+simple input-
+3
+simple output-
+[111, 12, 21, 3]
+*/
 import java.io.*;
 import java.util.*;
 

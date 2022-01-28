@@ -40,3 +40,4 @@ public class Get_Subsequence {
 
 }
 
+// today - 1.get kpc 2.get stair paths 3.Get Subsequence  
