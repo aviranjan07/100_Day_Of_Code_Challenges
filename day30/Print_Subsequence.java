@@ -44,3 +44,5 @@ public class Print_Subsequence {
   }
 
 }
+
+// today- 1.print kpc 2.print subsequence
