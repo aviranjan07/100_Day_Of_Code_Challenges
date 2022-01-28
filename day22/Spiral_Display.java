@@ -1,3 +1,39 @@
+/* Q. piral Display
+simple input-
+3
+5
+11
+12
+13
+14
+15
+21
+22
+23
+24
+25
+31
+32
+33
+34
+35
+simple output-
+11
+21
+31
+32
+33
+34
+35
+25
+15
+14
+13
+12
+22
+23
+24
+*/
 import java.io.*;
 import java.util.*;
 

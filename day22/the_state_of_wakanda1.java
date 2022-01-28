@@ -1,4 +1,4 @@
-/*
+/* Q.the state of wakanda1
 input -
 3(r)
 4(c)

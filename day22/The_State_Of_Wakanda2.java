@@ -34,3 +34,5 @@ public class The_State_Of_Wakanda2 {
     }
 
 }
+
+// today- 1.Exit point of a matrix 2.rotate by 90 degre 3.piral Display 4.the state of wakanda1 5.the state of wakanda 2 
