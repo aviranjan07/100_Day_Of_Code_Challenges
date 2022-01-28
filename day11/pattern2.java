@@ -1,10 +1,10 @@
-//   pattern 2 , when input is 5 
-//   * * * * *
-//   * * * * 
-//   * * *
-//   * *
-//   *
-
+/*   pattern 2 , when input is 5 
+   * * * * *
+   * * * * 
+   * * *
+   * *
+   *
+*/
 
 import java.util.*;
 

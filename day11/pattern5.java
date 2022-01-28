@@ -35,3 +35,4 @@ public class pattern5 {
 
     }
 }
+// today - pattern 1 to pattern 5
