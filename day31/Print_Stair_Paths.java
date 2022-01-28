@@ -33,3 +33,5 @@ public class Print_Stair_Paths {
     }
 
 }
+
+// today - 1.print maze paths with jumps 2. print maze paths 3.print stair paths 
