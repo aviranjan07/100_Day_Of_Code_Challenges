@@ -22,3 +22,5 @@ public class pattern21 {
 
     }
 }
+
+// today - pattern 16 to pattern 21 
