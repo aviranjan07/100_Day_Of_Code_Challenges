@@ -39,3 +39,5 @@ public static void main(String[] args) throws Exception {
  }
 
 }
+
+// today- 1.any base addition 2.any base multiplication 3.any base subtraction 4.fint element in array 5.span of array 
