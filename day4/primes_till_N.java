@@ -22,3 +22,4 @@ public class primes_till_N{
         }
     }
 }
+// primes till N 
