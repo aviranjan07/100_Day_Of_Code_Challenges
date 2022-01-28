@@ -1,3 +1,14 @@
+/*Q. Print Permutations
+simple input-
+abc
+simple output-
+abc
+acb
+bac
+bca
+cab
+cba
+*/
 import java.io.*;
 import java.util.*;
 
@@ -24,3 +35,5 @@ public class Print_Permutations {
     }
 
 }
+
+//today- 1.print Encodings 2.Print Permutations
