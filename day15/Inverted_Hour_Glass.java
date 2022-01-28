@@ -1,4 +1,5 @@
-/* Q. inverted hour glass , when input is 7
+/* Q. inverted hour glass
+ when input is 7
 *	*	*	*	*	*	*	
 	*	*	*	*	*	
 		*	*	*	

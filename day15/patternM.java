@@ -28,3 +28,4 @@ public static void main(String[] args) {
 
  }
 }
+// today - 1.Digit Frequency 2.inverted hour glass 3.pattern M 
