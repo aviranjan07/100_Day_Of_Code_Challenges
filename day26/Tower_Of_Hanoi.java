@@ -39,3 +39,5 @@ public class Tower_Of_Hanoi {
     }
 
 }
+
+// today- 1.Factorial 2.power linear 3.Power-logarithmic 4.print printDecreasing 5.Print Increasing Decreasing 6.print Increasing 7.print Zigzag  8.Tower Of Hanoi 
