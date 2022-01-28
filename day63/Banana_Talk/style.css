@@ -1,0 +1,80 @@
+
+:root {
+    --primary: #24e9a7;
+    --black: #c50f0f;
+    --width-break:600px
+}
+
+div{
+    font-family: cursive;
+}
+#heading{
+    font-family: cursive;
+     font-size: 2rem;
+     padding: 1rem;
+     box-sizing: border-box;
+     display: block;
+     text-align: center;
+}
+
+body {
+    margin: 0;
+    font-family: 'Kalam', cursive;
+    color: #333333;
+}
+
+nav {
+    background-color: var(--primary);
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    padding: 1rem;
+    max-width: var(--width-break);
+}
+
+textarea {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-height: 20vh;
+    margin-top: 2rem;
+    font-size: large;
+    font-family: inherit;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: var(--primary);
+    border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    font-family: 'Kalam', cursive;
+    font-size: large;
+    cursor: pointer;
+}
+
+
+#translate-output {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 20vh;
+    max-height: 20vh;
+    overflow:scroll;
+    border: 1px solid var(--black);
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--primary);
+    text-align: center;
+    font-family: cursive;
+}
+
+footer p {
+    max-width: var(--width-break);
+    margin: auto;
+}

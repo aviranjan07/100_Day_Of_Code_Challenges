@@ -1,0 +1,12 @@
+today learn:
+Everything i need to project. Today I did it so that in a few days I can do my first project, my project is #cricinfo ..
+Q1. first experience with functions
+Q2. first experience with array.
+Q3. first experience with dependencies (external module)
+Q4. file manipulation.
+Q5. first experience with call back.
+Q6. how to create big files?
+Q7. fast web downloads .
+Q8. first experience with processing data from web.
+Q9. first experience with using JSON
+Q10. how to read JSON?
