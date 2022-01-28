@@ -87,7 +87,59 @@ public class Largest_Bst_Subtree {
     display(node.left);
     display(node.right);
   }
-  
+
+  public static int height(Node node) {
+    if (node == null) {
+      return -1;
+    }
+
+    int lh = height(node.left);
+    int rh = height(node.right);
+
+    int th = Math.max(lh, rh) + 1;
+    return th;
+  }
+
+ 
+  public static class BSTPair {
+    boolean isBST;
+    int min;
+    int max;
+    Node root;
+    int size;
+  }
+
+  public static BSTPair isBST(Node node){
+    if(node == null){
+      BSTPair bp = new BSTPair();
+      bp.min = Integer.MAX_VALUE;
+      bp.max = Integer.MIN_VALUE;
+      bp.isBST = true;
+      bp.root = null;
+      bp.size = 0;
+      return bp;
+    }
+     BSTPair lp = isBST(node.left);
+     BSTPair rp = isBST(node.right);
+
+     BSTPair mp = new BSTPair();
+     mp.isBST = lp.isBST && rp.isBST &&
+             (node.data >= lp.max && node.data <= rp.min);
+     mp.min = Math.min(node.data, Math.min(lp.min, rp.min));
+     mp.max = Math.max(node.data, Math.max(lp.max, rp.max));        
+    
+     if(mp.isBST){
+       mp.root = node;
+       mp.size = lp.size + rp.size + 1;
+     }else if(lp.size > rp.size){
+       mp.root = lp.root;
+       mp.size = lp.size;
+     }else {
+       mp.root = rp.root;
+       mp.size = rp.size;
+     }
+     return mp;
+  }
   public static void main(String[] args) throws Exception {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int n = Integer.parseInt(br.readLine());
@@ -104,6 +156,9 @@ public class Largest_Bst_Subtree {
     Node root = construct(arr);
     
     // write your code here
+    BSTPair bp = isBST(root);
+    System.out.println(bp.root.data + "@" + bp.size);
+
   }
 
 }
