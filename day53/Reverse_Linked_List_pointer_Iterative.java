@@ -1,4 +1,5 @@
 /*
+Q.Reverse_Linked_List_pointer_Iterative
 simple input -
 addFirst 10
 addFirst 20
@@ -267,3 +268,5 @@ public class Reverse_Linked_List_pointer_Iterative {
     }
   }
 }
+
+// today- 1.Merge_Sort_A_Linked_List 2.Merge_Two_Sorted_Linked_Lists 3.Reverse_Linked_List_pointer_Iterative 
