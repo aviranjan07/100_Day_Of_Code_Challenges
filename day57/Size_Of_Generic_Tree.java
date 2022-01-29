@@ -1,4 +1,5 @@
 /*
+Q.Size_Of_Generic_Tree
 simple input-
 12
 10 20 -1 30 50 -1 60 -1 -1 40 -1 -1
@@ -78,3 +79,5 @@ public class Size_Of_Generic_Tree {
   }
 
 }
+
+// today- 1.Generic_Tree_Constructor 2.lavel_order_of_zigzag 3.Maximum_In_A_Generic_Tree 4.Size_Of_Generic_Tree 
