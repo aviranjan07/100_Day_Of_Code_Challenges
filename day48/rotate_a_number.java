@@ -1,3 +1,7 @@
+/* Q3. Rotate a number 
+ input - 65473 , 2 se rotate karna hai
+ output - 73
+*/
 import java.util.*;
 
 public class rotate_a_number {
@@ -21,3 +25,5 @@ public class rotate_a_number {
 
   }
 }
+
+// today- 1.Count digits in a number 2.Digits Of A Number 3.Inverce of a number 4.Is a number prime  5.Rotate a number  

@@ -1,4 +1,17 @@
- //Q2.  Digits Of A Number
+ /*
+ Q.Digits Of A Number
+ simple input-
+ 65784383
+ simple output-
+6
+5
+7
+8
+4
+3
+8
+3
+ */
  import java.util.*;
     
  public class digits_of_a_number {
