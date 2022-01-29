@@ -83,3 +83,5 @@ public class Selection_Sort {
   }
 
 }
+
+// today - 1.Bubble Sort 2.insertion sort 3.marge two sorted array 4.selection sort  

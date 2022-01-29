@@ -1,3 +1,23 @@
+/*Q.marge two sorted array
+simple input-
+4
+-2 
+5 
+9 
+11
+3
+4 
+6 
+8
+simple output-
+-2
+4
+5
+6
+8
+9
+11
+*/
 import java.io.*;
 import java.util.*;
 
