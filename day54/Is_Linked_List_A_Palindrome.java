@@ -1,4 +1,5 @@
 /*
+Q.Is_Linked_List_A_Palindrome
 simple input-
 5
 1 2 3 2 1
@@ -439,3 +440,5 @@ public class Is_Linked_List_A_Palindrome {
     System.out.println(l1.IsPalindrome());
   }
 }
+
+// today- 1.Add_Two_Linked_Lists 2.Fold_A_Linked_List 3.Intersection_Point_Of_Linked_Lists 4.Is_Linked_List_A_Palindrome 
