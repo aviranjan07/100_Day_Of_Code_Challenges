@@ -1,4 +1,5 @@
 /*
+Q.Mid_Of_Linked_List
 simple input -
 addLast 10
 getFirst

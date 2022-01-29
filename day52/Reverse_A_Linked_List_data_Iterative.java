@@ -1,4 +1,5 @@
 /*
+Q.Reverse_A_Linked_List_data_Iterative
 input -
 addFirst 10
 addFirst 20
@@ -250,3 +251,5 @@ public class Reverse_A_Linked_List_data_Iterative {
     }
   }
 }
+
+// today- 1.Add_At_Index_In_Linked_List 2.Kth_Node_From_End_Of_Linked_List 3.Mid_Of_Linked_List 4.Reverse_A_Linked_List_data_Iterative  
