@@ -1,3 +1,10 @@
+/*
+Q.Count digits in a number
+simple input-
+65784383
+simple output-
+8
+*/
 import java.util.*;
 
 public class count_digits {

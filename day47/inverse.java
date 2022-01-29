@@ -1,3 +1,8 @@
+/* Q2. Inverce of a number 
+
+ input - 45213
+ output-   45132
+*/
 import java.util.*;
 
 public class inverse { 

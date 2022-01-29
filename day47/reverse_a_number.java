@@ -1,3 +1,10 @@
+/* Q1. reverce a number 
+  input -- 543 ,
+   output -- 
+   3
+   4
+   5
+*/
 import java.util.*;
 
 public class reverse_a_number {
@@ -16,3 +23,4 @@ public class reverse_a_number {
     }
   }
 }
+// today- 1.Count digits in a number 2.Inverce of a number 3.reverce a number  
