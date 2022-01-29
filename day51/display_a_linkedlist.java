@@ -1,4 +1,6 @@
-/* simple input - 
+/*
+Q.display a linkedlist
+ simple input - 
 addLast 10
 addLast 20
 addLast 30

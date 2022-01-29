@@ -1,4 +1,5 @@
 /*
+Q. Add first in linked list
 simple input -
 addFirst 10
 getFirst

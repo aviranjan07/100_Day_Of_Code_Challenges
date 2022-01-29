@@ -1,4 +1,6 @@
-/* simple input -
+/*
+Q. Add last in linked list
+ simple input -
 addLast 10
 addLast 20
 addLast 30

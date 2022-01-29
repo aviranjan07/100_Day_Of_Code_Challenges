@@ -1,4 +1,6 @@
-/*simple input -
+/*
+Q.get value in linked list 
+simple input -
 addLast 10
 getFirst
 addLast 20
@@ -153,3 +155,5 @@ public class Get_Value_In_Linked_List {
     }
   }
 }
+
+// today- 1.Add first in linked list 2.Add last in linked list 3.display a linkedlist 4.get value in linked list
