@@ -1,3 +1,10 @@
+/* Q.print Encodings 
+simple input-
+655196
+output-
+feeaif
+feesf
+*/
 import java.io.*;
 import java.util.*;
 

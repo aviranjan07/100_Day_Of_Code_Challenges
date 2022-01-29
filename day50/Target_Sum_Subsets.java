@@ -1,3 +1,17 @@
+/* Q. Target sum subsets 
+simple input-
+5
+10
+20
+30
+40
+50
+60
+simple output-
+10, 20, 30, .
+10, 50, .
+20, 40, .
+*/
 import java.io.*;
 import java.util.*;
 
@@ -31,3 +45,4 @@ public class Target_Sum_Subsets {
   }
 
 }
+// today- 1.flood fill 2.print Knights Tour  3.printN Queens 4.print Encodings  5.Print Permutations 6.Target sum subsets  

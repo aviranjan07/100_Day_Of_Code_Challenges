@@ -1,3 +1,12 @@
+/* Q. flood fill 
+input-
+3 3
+0 0 0
+1 0 1
+0 0 0
+output--
+rddr
+*/
 import java.io.*;
 import java.util.*;
 
