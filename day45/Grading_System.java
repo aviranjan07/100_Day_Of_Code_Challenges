@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Grading_System {
+public class Grading_System { 
 
     public static void main(String[] args) {
         // Write your code here
