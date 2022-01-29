@@ -1,3 +1,19 @@
+/*
+Q. Is a number prime 
+simple input-
+5
+13
+2
+3
+4
+5
+simple output-
+prime
+prime
+prime
+not prime
+prime
+*/
 import java.util.*;
 
 public class Is_a_Number_Prime {
