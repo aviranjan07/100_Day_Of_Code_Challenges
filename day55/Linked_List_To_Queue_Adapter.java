@@ -1,4 +1,5 @@
 /*
+Q.Linked_List_To_Queue_Adapter
 simple input -
 add 10
 add 20

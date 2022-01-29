@@ -1,4 +1,5 @@
 /*
+Q.Reverse_Linked_List_pointer_Recursive
 input-
 11
 1 2 3 4 5 6 7 8 9 10 11
@@ -429,3 +430,5 @@ public class Reverse_Linked_List_pointer_Recursive {
     l1.display();
   }
 }
+
+// today- 1.Linked_List_To_Queue_Adapter 2.Linked_List_To_Queue_Adapter 3.Reverse_Linked_List_pointer_Recursive

@@ -1,4 +1,5 @@
 /*
+Q.Linked_List_To_Stack_Adapter
 simple input -
 push 10
 push 20
