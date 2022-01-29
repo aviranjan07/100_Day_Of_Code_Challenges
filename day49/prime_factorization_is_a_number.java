@@ -1,3 +1,10 @@
+/*
+Q. prime factorization is a number 
+simple input-
+1440
+output-
+2 2 2 2 2 3 3 5
+*/
 import java.util.*;
 
 public class prime_factorization_is_a_number {

@@ -1,3 +1,19 @@
+/*
+Q.print fibonacci number till N 
+simple input-
+10
+simpleoutput-
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+*/
 import java.util.*;
 
 public class print_fibonacci_number {

@@ -1,3 +1,10 @@
+/* Q1. reverce a number 
+  input -- 543 ,
+   output -- 
+   3
+   4
+   5
+*/
 import java.util.*;
 
 public class reverse_a_number{

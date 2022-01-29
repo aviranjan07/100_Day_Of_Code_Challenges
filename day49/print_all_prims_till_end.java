@@ -1,3 +1,16 @@
+/*
+Q. print all primes till N
+simple input-
+6 
+24
+simple output-
+7
+11
+13
+17
+19
+23
+*/
 import java.util.*;
 
 public class print_all_prims_till_end {
