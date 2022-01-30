@@ -1,4 +1,5 @@
 /*
+Q.Print_Single_Child_Nodes
 simple input-
 19
 50 25 12 n n 37 30 n n n 75 62 n 70 n n 87 n n
