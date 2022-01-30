@@ -1,4 +1,5 @@
 /*
+Q.Traversals_in_a_Binary_Tree
 simple input-
 19
 50 25 12 n n 37 30 n n n 75 62 n 70 n n 87 n n
@@ -142,3 +143,5 @@ public class Traversals_in_a_Binary_Tree {
   }
 
 }
+
+// today- 1.binary_tree_constructor 2.Display_A_Binary_Tree 3.introduction_to_binary_tree 4.Size_Sum_Maximum_And_Height_Of_A_Binary_Tree 5.Traversals_in_a_Binary_Tree
