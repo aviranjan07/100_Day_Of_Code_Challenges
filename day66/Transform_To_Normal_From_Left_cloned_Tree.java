@@ -1,4 +1,5 @@
 /*
+Q.Transform_To_Normal_From_Left_cloned_Tree
 simple input-
 37
 50 50 25 25 12 12 n n n n 37 37 30 30 n n n n n n 75 75 62 62 n n 70 70 n n n n 87 87 n n n
@@ -131,3 +132,5 @@ public class Transform_To_Normal_From_Left_cloned_Tree {
   }
 
 }
+
+// today- 1.Path_To_Leaf_From_Root_In_Range 2.Print_Nodes_K_Distance_Away 3.Transform_To_Left_cloned_Tree 4.Transform_To_Normal_From_Left_cloned_Tree 
