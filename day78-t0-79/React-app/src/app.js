@@ -97,6 +97,7 @@ const emojiDictionary = {
 "🤬": "Face with Symbols on Mouth",
 "😈": "Smiling Face with Horns",
 "👿": "Angry Face with Horns"
+
 };
 
 const emojis = Object.keys(emojiDictionary);
