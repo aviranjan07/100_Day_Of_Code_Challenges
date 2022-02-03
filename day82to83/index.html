@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cash Register App By Aviranjan</title>
+    <link rel="icon" type="image/x-icon" href="./icons/faviconicon.png">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="header">
+      <div class="nav">
+        <h1 class="header-heading"> 💰 Cash Register 💰</h1>
+      </div>
+    </header>
+    <main class="main">
+      <div class="container">
+        <form class="user-input">
+          <h2 class="user-heading">Enter Bill Amount And Cash Paid</h2>
+          <div class="bill-input">
+            <label for="bill">Bill Amount:</label>
+            <input
+              type="number"
+              min="0"
+              required
+              id="bill"
+              class="bill-amount"
+            />
+          </div>
+          <div class="cash-input">
+            <label for="cash">Cash Paid: </label>
+            <input
+              type="number"
+              min="0"
+              required
+              id="cash"
+              class="cash-amount"
+            />
+          </div>
+          <button type="submit" class="btn">Check Currency</button>
+        </form>
+        <div class="result-display">
+          <h2 class="error"></h2>
+          <ul class="note-list"></ul>
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="footer-list">
+        <ul class="list">
+          <li class="list-item">
+            <a href="https://twitter.com/aviranjan_das" class="list-link"
+              >Twitter</a
+            >
+          </li>
+          <li class="list-item">
+            <a href="https://github.com/aviranjan07" class="list-link"
+              >Github</a
+            >
+          </li>
+          <li class="list-item">
+            <a href="https://www.linkedin.com/in/aviranjan-das-8121a2211/" class="list-link"
+              >LinkedIn</a
+            >
+          </li>
+          <li class="list-item">
+            <a href="https://www.instagram.com/aviranjan07/" class="list-link"
+              >Instagram</a
+            >
+          </li>
+          <li class="list-item">
+            <a href="https://aviranjan07.github.io/Aviranjan-Portfolio-website/index.html" class="list-link"
+              >Portfolio</a
+            >
+          </li>
+        </ul>
+      </div>
+      <small>&copy Aviranjan 2020</small>
+    </footer>
+    <script src="./app.js"></script>
+  </body>
+</html>
