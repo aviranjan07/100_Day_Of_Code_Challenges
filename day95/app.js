@@ -79,7 +79,7 @@ function getRemaindingTime() {
 
   if (t < 0) {
     clearInterval(countdown);
-    deadline.innerHTML = `<h4 class="expired">sorry, this giveaway has expired!</h4>`;
+    deadline.innerHTML = `<h4 class="expired">sorry, this soshthi has expired!</h4>`;
   }
 }
 // countdown;
